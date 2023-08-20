@@ -12,7 +12,7 @@ smtp_port = 587                 # Standard secure SMTP port
 smtp_server = "smtp.gmail.com"  # Google SMTP Server
 
 email_from = "johnk726@gmail.com"
-email_to = "johnk726@gmail.com@gmail.com"
+email_to = "johnk726@gmail.com"
 
 pswd = "*************"
 
